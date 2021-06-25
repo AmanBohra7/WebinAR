@@ -1,0 +1,6 @@
+[submodule "WebinAR-React-App"]
+	path = WebinAR-React-App
+	url = https://github.com/AmanBohra7/WebinAR-React-App
+[submodule "WebinAR-Unity"]
+	path = WebinAR-Unity
+	url = https://github.com/AmanBohra7/WebinAR-Unity
